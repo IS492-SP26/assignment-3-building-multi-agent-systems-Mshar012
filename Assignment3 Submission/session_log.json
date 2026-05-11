@@ -1,0 +1,22 @@
+[
+  {
+    "agent": "user",
+    "content": "List one accessibility feature for the Apple Vision Pro and provide its official source URL."
+  },
+  {
+    "agent": "Planner",
+    "content": "Identify a single accessibility feature of Apple Vision Pro. Prioritize Apple’s official documentation. Search Queries: 'Apple Vision Pro accessibility features'. Extract the feature name, description, and exact URL. Selected Feature: VoiceOver."
+  },
+  {
+    "agent": "Researcher",
+    "content": "Feature: VoiceOver – a built-in screen-reader that audibly describes on-screen content for users with visual impairments. Official Source URL: https://support.apple.com/visionpro/accessibility."
+  },
+  {
+    "agent": "Writer",
+    "content": "Apple’s Vision Pro is designed to be inclusive... VoiceOver is a native screen-reader that audibly announces on-screen elements, gestures, and interactions in the spatial interface. Official Source: https://support.apple.com/visionpro/accessibility [Source: Apple Support – Vision Pro Accessibility]"
+  },
+  {
+    "agent": "Critic",
+    "content": "Score: 5/5. Relevance: The response directly lists VoiceOver and the requested official URL. Evidence Quality: The source is Apple’s official support site. Accuracy: VoiceOver is indeed a built-in screen-reader. Overall, the response meets all evaluation criteria. TERMINATE"
+  }
+]
